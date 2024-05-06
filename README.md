@@ -1,1 +1,1 @@
-# green_tobacco_sickness_tempearture_worldwide_2024
+# green_tobacco_sickness_climate_change_worldwide_2024
