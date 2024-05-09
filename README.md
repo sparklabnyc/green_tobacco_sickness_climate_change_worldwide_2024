@@ -7,7 +7,7 @@ Communications Medicine 2024.
 
 This dataset is used for the paper 
 
-Ziska L, Parks RM (2024). [Recent and Projected Changes in Global Climate May Increase Nicotine Absorption and the Risk of Green Tobacco Sickness](https://doi.org/10.1038/s41893-024-01293-y). _Communications Medicine_.
+Ziska L, Parks RM (2024). [Recent and Projected Changes in Global Climate May Increase Nicotine Absorption and the Risk of Green Tobacco Sickness](). _Communications Medicine_.
 
 ## Directory structure
 
